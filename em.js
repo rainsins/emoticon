@@ -67,7 +67,7 @@ function em(){
         obj[el.name].container = [];
         for (let i= 1; i <= el.count; i++) {
             const obff = {
-                icon: `<img src=\"https://blog.rainsin.cn/emoticon/${el.name}/${ i < 9 ? `00${i}` : i < 99 ? `0${i}` : `${i}` }.webp\">`, 
+                icon: `<img src=\"https://blog.rainsin.cn/emoticon/${el.name}/${ i < 10 ? `00${i}` : i < 100 ? `0${i}` : `${i}` }.webp\">`, 
                 text: `${el.name}${i}`
             }
             obj[el.name].container.push(obff);
