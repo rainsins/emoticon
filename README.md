@@ -1,5 +1,6 @@
 # emoticon
-表情仓库
+
+OwO表情Data API
 
 # 来源
 
