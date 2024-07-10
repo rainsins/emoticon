@@ -1,0 +1,22 @@
+{
+  "name": "emoticon",
+  "version": "1.0.0",
+  "description": "表情包API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainsins/emoticon.git"
+  },
+  "keywords": [
+    "emoticon"
+  ],
+  "author": "rainsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainsins/emoticon/issues"
+  },
+  "homepage": "https://github.com/rainsins/emoticon#readme"
+}
